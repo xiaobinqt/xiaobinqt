@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ![info](https://github-readme-stats.vercel.app/api?username=xiaobinqt&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-# 程序语言
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=golang&logoColor=ffffff)](https://reactjs.org/)
+### 程序语言
+[![](https://img.shields.io/badge/-Golang-007396?style=flat-square&logo=golang&logoColor=ffffff)](https://golang.org/)
