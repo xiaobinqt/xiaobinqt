@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=xiaobinqt.readme)
 
 <!-- ![info](https://github-readme-stats.vercel.app/api?username=xiaobinqt&show_icons=true&count_private=true&hide=prs&theme=default_repocard) -->
-![Chuanjian's github stats](https://github-readme-stats.vercel.app/api?username=xiaobinqt&layout=compact&show_icons=true&theme=merko&count_private=true)
+![xiaobinqt's github stats](https://github-readme-stats.vercel.app/api?username=xiaobinqt&layout=compact&show_icons=true&theme=merko&count_private=true)
 
-![Chuanjian's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobinqt&layout=compact&langs_count=10&theme=merko)
+![xiaobinqt's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobinqt&layout=compact&langs_count=10&theme=merko)
 
 ### 程序语言
 [![](https://img.shields.io/badge/-Golang-007396?style=flat-square&logo=golang&logoColor=ffffff)](https://golang.org/)
