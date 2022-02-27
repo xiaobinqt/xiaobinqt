@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 <div id="contributed">
-<a href="https://github.com/node-red/node-red/pull/3459">
+<a href="https://github.com/node-red/node-red/commits?author=xiaobinqt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=node-red&repo=node-red&theme=buefy" />
 </a>
 
