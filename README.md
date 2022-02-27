@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ### Contributed open source projects
 
 
+<div id="contributed">
 <a href="https://github.com/node-red/node-red/pull/3459">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=node-red&repo=node-red&theme=buefy" />
 </a>
@@ -53,6 +54,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eatmoreapple&repo=openwechat&theme=buefy" />
 </a>
 
+</div>
 
 <br />
 <br />
