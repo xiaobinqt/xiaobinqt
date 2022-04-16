@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img align="center" src="https://cdn.xiaobinqt.cn/developer.gif"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=xiaobinqt&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
+</p>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=xiaobinqt.readme)
 
 <!-- ![info](https://github-readme-stats.vercel.app/api?username=xiaobinqt&show_icons=true&count_private=true&hide=prs&theme=default_repocard) -->
