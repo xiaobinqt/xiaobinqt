@@ -28,11 +28,18 @@ Here are some ideas to get you started:
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=xiaobinqt&theme=react-dark&hide_border=true&area=true) -->
 </div>
 
+<br/>
 
 <!-- ![info](https://github-readme-stats.vercel.app/api?username=xiaobinqt&show_icons=true&count_private=true&hide=prs&theme=default_repocard) -->
+
+<div style="display: flex;justify-content: space-between">
+
 ![xiaobinqt's github stats](https://github-readme-stats.vercel.app/api?username=xiaobinqt&layout=compact&show_icons=true&theme=merko&count_private=true)
 
 ![xiaobinqt's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobinqt&layout=compact&langs_count=10&theme=merko)
+
+</div>
+
 
 ### Languages and Tools:
 
@@ -64,5 +71,4 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
 
