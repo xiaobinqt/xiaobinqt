@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 <div style="display: flex;justify-content: space-between">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xiaobinqt&layout=compact&show_icons=true&theme=merko&count_private=true">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=xiaobinqt&layout=compact&show_icons=true&theme=merko&count_private=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobinqt&layout=compact&langs_count=10&theme=merko">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobinqt&layout=compact&langs_count=10&theme=merko">
 
 </div>
 
