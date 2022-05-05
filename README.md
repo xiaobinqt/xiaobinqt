@@ -17,10 +17,17 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img align="center" src="https://cdn.xiaobinqt.cn/developer.gif"/>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=xiaobinqt&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
+<!--   <img align="center" src="https://github-profile-trophy.vercel.app/?username=xiaobinqt&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;"> -->
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=xiaobinqt.readme)
+
+<!-- 提交折线图  -->
+<div align="center">
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=xiaobinqt&theme=react-dark&hide_border=false&area=true&bg_color=23272d" />
+<!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=xiaobinqt&theme=react-dark&hide_border=true&area=true) -->
+</div>
+
 
 <!-- ![info](https://github-readme-stats.vercel.app/api?username=xiaobinqt&show_icons=true&count_private=true&hide=prs&theme=default_repocard) -->
 ![xiaobinqt's github stats](https://github-readme-stats.vercel.app/api?username=xiaobinqt&layout=compact&show_icons=true&theme=merko&count_private=true)
