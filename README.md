@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 
 <!-- ![info](https://github-readme-stats.vercel.app/api?username=xiaobinqt&show_icons=true&count_private=true&hide=prs&theme=default_repocard) -->
 
-<div style="display: flex;justify-content: space-between">
+<!-- <div style="display: flex;justify-content: space-between">
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=xiaobinqt&layout=compact&show_icons=true&theme=merko&count_private=true">
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobinqt&layout=compact&langs_count=10&theme=merko">
 
-</div>
+</div> -->
 
 ### Languages and Tools:
 
