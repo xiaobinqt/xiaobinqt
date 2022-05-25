@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 
 ### Contributed open source projects
 
-<div id="contributed">
-<div>
+<div id="contributed" style="display: flex;flex-direction: column">
+<div style="margin-bottom: 10px">
 <a href="https://github.com/node-red/node-red/commits?author=xiaobinqt">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=node-red&repo=node-red&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-<div>
+<div style="margin-bottom: 10px">
 <a href="https://github.com/eatmoreapple/openwechat/commits?author=xiaobinqt">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=eatmoreapple&repo=openwechat&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
