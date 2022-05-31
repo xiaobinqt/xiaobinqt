@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://visitor-badge.glitch.me/badge?page_id=xiaobinqt.readme)
+
 <p align="center">
   <img align="center" src="https://cdn.xiaobinqt.cn/developer.gif"/>
 <!--   <img align="center" src="https://github-profile-trophy.vercel.app/?username=xiaobinqt&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;"> -->
 </p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=xiaobinqt.readme)
 
 <!-- 提交折线图  -->
 <div align="center">
