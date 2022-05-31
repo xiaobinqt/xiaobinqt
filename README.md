@@ -1,4 +1,4 @@
-### Hi there 👋
+### ![](https://visitor-badge.glitch.me/badge?page_id=xiaobinqt.readme) Hi there 👋  
 
 <!--
 **xiaobinqt/xiaobinqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=xiaobinqt.readme)
+
 
 <p align="center">
   <img align="center" src="https://cdn.xiaobinqt.cn/developer.gif"/>
