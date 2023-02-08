@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!--   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=xiaobinqt&theme=react-dark&hide_border=false&area=true&bg_color=23272d" /> -->
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=xiaobinqt&theme=react-dark&hide_border=true&area=true) -->
 
-<img width="90%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xiaobinqt&show_icons=true&theme=radical" />
+<img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xiaobinqt&show_icons=true&theme=radical" />
 
 </div>
 
