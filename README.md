@@ -130,18 +130,16 @@ Here are some ideas to get you started:
 <img width='49%' align="center"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=xiaobinqt&repo=dounai-checkin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>  
 
-<a href="https://github.com/xiaobinqt/biaoqingbao-cli">
-<img width='49%' align="center"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=xiaobinqt&repo=biaoqingbao-cli&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
+<a href="https://github.com/xiaobinqt/vue-admin">
+<img width='49%' align="center"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=xiaobinqt&repo=vue-admin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>  
 
 </div>
 
 <br/> 
 
 <div style="margin-bottom: 10px">
-<a href="https://github.com/xiaobinqt/vue-admin">
-<img width='49%' align="center"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=xiaobinqt&repo=vue-admin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>  
+
 
 
 </div>
