@@ -131,16 +131,11 @@ Learn vocabulary while practicing keyboard typing.
 </tr>
 </table>
 
-<details>
-<summary><b>More open-source contributions</b></summary>
+### More Contributions
 
-<br>
-
-* [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt/commits?author=xiaobinqt)
-* [SocialiteProviders/Weixin](https://github.com/SocialiteProviders/Weixin/commits?author=vt-nwei)
-* [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base/commits?author=xiaobinqt)
-
-</details>
+[![LoveIt](https://img.shields.io/badge/dillonzq%2FLoveIt-181717?style=flat-square\&logo=github)](https://github.com/dillonzq/LoveIt/commits?author=xiaobinqt)
+[![Weixin](https://img.shields.io/badge/SocialiteProviders%2FWeixin-181717?style=flat-square\&logo=github)](https://github.com/SocialiteProviders/Weixin/commits?author=vt-nwei)
+[![CS-Base](https://img.shields.io/badge/xiaolincoder%2FCS--Base-181717?style=flat-square\&logo=github)](https://github.com/xiaolincoder/CS-Base/commits?author=xiaobinqt)
 
 ---
 
@@ -148,33 +143,33 @@ Learn vocabulary while practicing keyboard typing.
 
 <div align="center">
 
-### Backend Engineering
-
 **System Design** · **Distributed Systems** · **Domain-Driven Design**
 
 **Database & Cache** · **Cloud Native** · **Reliability** · **Observability**
 
-</div>
+<br>
 
-```text id="engineering-focus"
-                          Backend Engineering
-                                  │
-                 ┌────────────────┼────────────────┐
-                 │                │                │
-                 ▼                ▼                ▼
-           System Design     Distributed      Data & Storage
-                               Systems
-                 │                │                │
-                 └────────────────┼────────────────┘
-                                  │
-                                  ▼
-                            Cloud Native
-                                  │
-                     ┌────────────┴────────────┐
-                     │                         │
-                     ▼                         ▼
-                Reliability              Observability
-```
+<pre>
+                   Backend Engineering
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+    System Design     Distributed      Data & Storage
+                        Systems
+          │                │                │
+          └────────────────┼────────────────┘
+                           │
+                           ▼
+                     Cloud Native
+                           │
+              ┌────────────┴────────────┐
+              │                         │
+              ▼                         ▼
+         Reliability              Observability
+</pre>
+
+</div>
 
 ---
 
