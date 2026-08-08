@@ -1,151 +1,116 @@
-### ![](https://visitor-badge.glitch.me/badge?page_id=xiaobinqt.readme) Hi there 👋
-
-<!--
-**xiaobinqt/xiaobinqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<p align="center">
-  <img align="center" src="https://cdn.xiaobinqt.cn/developer.gif"/>
-<!--   <img align="center" src="https://github-profile-trophy.vercel.app/?username=xiaobinqt&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;"> -->
-</p>
-
-<!-- 提交折线图  -->
 <div align="center">
-<!--   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=xiaobinqt&theme=react-dark&hide_border=false&area=true&bg_color=23272d" /> -->
-<!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=xiaobinqt&theme=react-dark&hide_border=true&area=true) -->
 
-<img width="60%" src="https://github-stats-extended.vercel.app/api?username=xiaobinqt&show_icons=true&theme=radical" />
+# Hi, I'm xiaobinqt 👋
 
-</div>
+### Backend Engineer · Go · Open Source
 
-<br/>
+Building reliable backend systems, developer tools, and infrastructure.
 
-<!-- ![info](https://github-stats-extended.vercel.app/api?username=xiaobinqt&show_icons=true&count_private=true&hide=prs&theme=default_repocard) -->
-
-<!-- <div style="display: flex;justify-content: space-between">
-
-<img width="50%" src="https://github-stats-extended.vercel.app/api?username=xiaobinqt&layout=compact&show_icons=true&theme=merko&count_private=true">
-
-<img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xiaobinqt&layout=compact&langs_count=10&theme=merko">
-
-</div> -->
-
-## Languages and Tools:
-
-<code><img height="20" src="https://img.shields.io/badge/-Golang-007396?style=flat-square&logo=golang&logoColor=ffffff"></code>
-<code><img height="20" src="https://img.shields.io/badge/-%20php-yellowgreen"></code>
-<code><img height="20" src="https://img.shields.io/badge/-%20python-orange"></code>
-
-<!-- ## Contributed open source projects -->
-
-## 💝 My Fork Repos/PRs (as Contributor):
-
-<div id="contributed" style="display: flex;flex-direction: column">
-<div style="margin-bottom: 10px">
-<a href="https://github.com/node-red/node-red/commits?author=xiaobinqt">
-<img width='49%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=node-red&repo=node-red&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-
-
-<a href="https://github.com/dushixiang/next-terminal/commits?author=xiaobinqt">
-<img width='49%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=dushixiang&repo=next-terminal&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D893" />
-</a>
-</div>
-
-<br />
-
-<div style="margin-bottom: 10px">
-<a href="https://github.com/eatmoreapple/openwechat/commits?author=xiaobinqt">
-<img width='49%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=eatmoreapple&repo=openwechat&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-
-
- <a href="https://github.com/dillonzq/LoveIt/commits?author=xiaobinqt">
-<img width='49%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=dillonzq&repo=LoveIt&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</div>
-
-
-<br/>
-
-<div style="margin-bottom: 10px">
-<a href="https://github.com/SocialiteProviders/Weixin/commits?author=vt-nwei">
-<img width='49%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=SocialiteProviders&repo=Weixin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-
-<a href="https://github.com/mojocn/base64Captcha/commits?author=xiaobinqt">
-<img width='49%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=mojocn&repo=base64Captcha&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
+[![Blog](https://img.shields.io/badge/Blog-xiaobinqt.cn-0A66C2?style=flat-square\&logo=hugo\&logoColor=white)](https://www.xiaobinqt.cn)
+[![GitHub](https://img.shields.io/badge/GitHub-xiaobinqt-181717?style=flat-square\&logo=github)](https://github.com/xiaobinqt)
 
 </div>
 
- <br/>
+---
 
-<div style="margin-bottom: 10px">
+## 👨‍💻 About Me
 
-<a href="https://github.com/YaoApp/gou/commits?author=xiaobinqt">
-<img width='49%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=YaoApp&repo=gou&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
+I'm a backend engineer primarily working with **Go** and **PHP**.
 
-<a href="https://github.com/xiaolincoder/CS-Base/commits?author=xiaobinqt">
-<img width='49%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=xiaolincoder&repo=CS-Base&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
+I enjoy designing and building reliable backend services, exploring how systems work under the hood, and turning engineering problems into simple and maintainable solutions.
 
+* 🔨 Building backend services and developer tools
+* 🏗️ Interested in system design and software architecture
+* ☁️ Exploring distributed systems and cloud-native technologies
+* 📚 Learning Domain-Driven Design and database internals
+* ✍️ Writing about software engineering and what I learn along the way
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+
+### Backend & Data
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square\&logo=elasticsearch\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square\&logo=rabbitmq\&logoColor=white)
+
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
+
+---
+
+## 🧭 Engineering Focus
+
+```text
+                         Backend Engineering
+                                │
+                ┌───────────────┼───────────────┐
+                │               │               │
+                ▼               ▼               ▼
+          System Design    Distributed      Data & Storage
+                             Systems
+                │               │               │
+                └───────────────┼───────────────┘
+                                │
+                                ▼
+                         Cloud Native
+                                │
+                  ┌─────────────┴─────────────┐
+                  ▼                           ▼
+             Reliability                 Observability
+```
+
+Areas I'm currently interested in:
+
+`System Design` · `Distributed Systems` · `DDD` · `Database Internals` · `Cloud Native`
+
+---
+
+## 🌱 Open Source
+
+I build and maintain open-source projects around:
+
+* Backend engineering
+* Developer tools
+* Automation
+* Infrastructure
+
+Some of the projects I'm currently working on are available in my **pinned repositories below**.
+
+↓ **Check out my pinned projects**
+
+---
+
+## ✍️ Writing
+
+I keep technical notes and write about problems I encounter while building software.
+
+Topics usually include:
+
+`Go` · `PHP` · `MySQL` · `Redis` · `Linux` · `Docker` · `Kubernetes` · `Networking` · `Backend Architecture`
+
+📚 **Blog:** [xiaobinqt.cn](https://www.xiaobinqt.cn)
+
+---
+
+<div align="center">
+
+### Keep building. Keep learning.
+
+*Why fear the infiniteness of truth?*
+*Each inch forward brings an inch of joy.*
 
 </div>
-
- <br/>
-
-<div style="margin-bottom: 10px">
-
-<a href="https://github.com/RealKai42/qwerty-learner/commits?author=xiaobinqt">
-<img width='49%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=RealKai42&repo=qwerty-learner&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-
-
-
-</div>
-
-</div>
-
-## Feature Work
-
-<div id="contributed" style="display: flex;flex-direction: column">
-<div style="margin-bottom: 10px">
-
-<a href="https://github.com/xiaobinqt/dounai-checkin">
-<img width='49%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=xiaobinqt&repo=dounai-checkin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-
-<a href="https://github.com/xiaobinqt/vue-admin">
-<img width='49%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=xiaobinqt&repo=vue-admin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-
-</div>
-
-<br/>
-
-<div style="margin-bottom: 10px">
-
-
-
-</div>
-
-
-</div>
-
-
-
